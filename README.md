@@ -1,2 +1,2 @@
 # Melter.B
-GDI TROJAN lmao!
+C# GDI trojan by ClutterTech
